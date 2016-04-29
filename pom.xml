@@ -14,7 +14,9 @@
 		</dependency>
 	</dependencies>
 	
-	
+	<properties>
+		<jdk.version>1.8</jdk.version>
+	</properties>
 	
 	<build>
 		<finalName>TrickleEmailer</finalName>
