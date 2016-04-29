@@ -10,7 +10,7 @@ public class Main {
 
 	public static void main(String args[]) {
 
-		args = new String[] { "creds.properties", "message.txt", "personal.txt", "5000" };
+//		args = new String[] { "creds.properties", "message.txt", "personal.txt", "5000" };
 
 		if (args.length < 4) {
 			printArgsAndExit();
