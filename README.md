@@ -12,6 +12,8 @@ To setup, create an [application specific password](https://security.google.com/
 
 Run `mvn clean package`. Requires Java 8 and Maven 3.
 
+Alternativly, you can download the compiled jar [here](https://github.com/kylevedder/TrickleEmailer/raw/master/TrickleEmailer.jar).
+
 ## Sample Usage
 
 `java -jar TrickleEmailer.jar "creds.properties" "message.txt" "personal.txt" "5000"`
