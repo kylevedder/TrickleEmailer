@@ -1,7 +1,11 @@
-Hi {0}, how are you?
+Hi {0}, how do you like this subject line?
 Hello {0},
 
 I saw that you have an email address. I wanted to tell you {1}!
+
+I want to include curly braces, so I am escaping them: '{in braces}'.
+
+I want to include single quites, so I am escaping them: ''in single quotes''.
 
 {2},
  - Kyle Vedder
