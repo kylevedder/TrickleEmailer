@@ -1,0 +1,7 @@
+Hi {0}, how are you?
+Hello {0},
+
+I saw that you have an email address. I wanted to tell you {1}!
+
+{2},
+ - Kyle Vedder

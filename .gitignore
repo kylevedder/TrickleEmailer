@@ -1,0 +1,14 @@
+/target/
+/.settings/
+/.recommenders/
+/.metadata/
+.classpath
+.project
+*.class
+*.log
+*~
+
+# Package Files #
+*.jar
+*.war
+*.ear
