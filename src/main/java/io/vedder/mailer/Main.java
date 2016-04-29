@@ -65,7 +65,7 @@ public class Main {
 
 	private static void printArgsAndExit() {
 		String message = "Usage:\n"
-				+ "<credentials file> <message file> <personalization file> <minumum time delay in milliseconds>\n\n";
+				+ "<credentials file> <message file> <personalization file> <minumum time delay in milliseconds> [mime type]\n\n";
 		System.out.println(message);
 		System.exit(-1);
 	}
