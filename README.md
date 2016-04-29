@@ -11,3 +11,5 @@ To setup, create an [application specific password](https://security.google.com/
 ## Sample Usage
 
 `java -jar TrickleEmailer.jar "creds.properties" "message.txt" "personal.txt" "5000"`
+
+Sends email with the format of `message.txt`, with the information of `personal.txt` substituted inside of it.
